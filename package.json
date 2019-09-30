@@ -1,0 +1,15 @@
+{
+  "name": "jest-eye-bleach",
+  "version": "1.0.0",
+  "description": "A collection of tests that will always pass and make you feel good.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Zak Laughton (zlaughton@gmail.com)",
+  "license": "ISC"
+}
