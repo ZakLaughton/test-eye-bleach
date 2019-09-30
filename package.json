@@ -4,12 +4,15 @@
   "description": "A collection of tests that will always pass and make you feel good.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "keywords": [
     "test",
     "jest"
   ],
   "author": "Zak Laughton (zlaughton@gmail.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
