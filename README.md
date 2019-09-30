@@ -3,14 +3,15 @@
 
 Tired of seeing red on your screen as all of your coding tests fail, no matter what you do?
 
-Not here!
+Not here! Download this repository and watch ALL THE TESTS PASS! Nothing but a sea of green checkmarks. 
 
-Download this repository and watch ALL THE TESTS PASS!
-Nothing but a sea of green checkmarks. Ahhhhhhh...isn't that nice?
+![Screenshot of green passing tests](https://raw.githubusercontent.com/zlaughton/test-eye-bleach/master/demo_screenshot.png)
+
+*Ahhhhhhh...isn't that nice?*
 
 ## Usage
 
-1. Clone the repo
+1. Clone the repo `git clone https://github.com/zlaughton/test-eye-bleach.git`
 1. Install the packages `npm install`
 1. Test `npm test`
 1. See a BEAUTIFUL wall of <span style="color:green">***GREEN***</span>
