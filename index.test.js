@@ -23,31 +23,31 @@ describe('super duper tricky tests', () => {
   });
 });
 describe('you must be really awesome if these actually pass', () => {
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
-  it('some reaaallly complicated shit', () => {
+  it('some reaaallly complicated stuff', () => {
     expect(true);
   });
 });
@@ -93,31 +93,31 @@ describe(`let's do that all one more time for fun`, () => {
     });
   });
   describe('you must be really awesome if these actually pass', () => {
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
-    it('some reaaallly complicated shit', () => {
+    it('some reaaallly complicated stuff', () => {
       expect(true);
     });
   });
